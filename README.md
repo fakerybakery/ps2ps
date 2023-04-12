@@ -1,2 +1,3 @@
 # ps2ps
-Convert PodSpec to Package.Swift
+## A simple tool to convert `.podspec` files to `Package.swift` files.
+!!! This tool is not guaranteed to work !!!
