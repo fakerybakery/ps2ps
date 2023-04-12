@@ -7,7 +7,7 @@ Convert your `podspec` files to `Package.swift` files easily.
 ## Online Demo
 <style>
 *{box-sizing:border-box;}
-textarea{width:100%;height:150px;min-height:100px;max-height:200px;resize:vertical;border-radius:5px;outline:none;font-size:1em;border:2px solid #626262;}
+textarea{width:100%;height:150px;min-height:100px;max-height:200px;resize:vertical;border-radius:5px;outline:none;font-size:1em;border:2px solid #626262;padding:10px 15px;}
 textarea:focus{border-color:#007AFF}
 </style>
 <script src="ps2ps.js"></script>
