@@ -23,3 +23,7 @@ textarea:focus{border-color:#007AFF}
 <script>
 function runit(text) {var res=convertPodspecToPackage(text);if (!res) res = "Invalid podspec! Please try again...";document.getElementById('o').value=res;}
 </script>
+
+
+
+LICENSE: GPL 3.0
