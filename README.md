@@ -3,3 +3,6 @@
 | :warning: This tool is not guaranteed to work :warning: |
 | --- |
 | :test_tube: This tool is unstable and in beta! :test_tube: |
+
+
+LICENSE: GPL 3.0
